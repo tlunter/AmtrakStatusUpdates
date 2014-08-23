@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Amtrak Status's Changelog</title>
+        <link>http://amtrak.tlunter.com/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1</title>
+            <sparkle:releaseNotesLink>
+                http://amtrak.tlunter.com/version/1.1.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 22 Aug 2014 19:13:00 -0500</pubDate>
+            <enclosure url="http://amtrak.tlunter.com/app/Amtrak%20Status%201.1.zip" sparkle:version="1.1" length="3594899" type="application/octet-stream" sparkle:dsaSignature="MCwCFCX1PkhKuzMWpPC6rExeqcUUmW5wAhRyZ62rI0RDbfDAZ+a4EiPx+wLgWQ==" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
