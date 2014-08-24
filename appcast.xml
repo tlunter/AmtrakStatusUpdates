@@ -6,6 +6,24 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.3</title>
+            <sparkle:releaseNotesLink>
+                http://amtrak.tlunter.com/version/1.3.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 24 Aug 2014 09:37:00 -0500</pubDate>
+            <enclosure url="http://amtrak.tlunter.com/app/Amtrak%20Status%201.3.zip" sparkle:version="1.3" length="3678119" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCZYjZ1jx0fbuUbvXVzZIVciDo8TwIUC638t8T0ZcvvIrUYTeZvtpKmxqg=" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.2</title>
+            <sparkle:releaseNotesLink>
+                http://amtrak.tlunter.com/version/1.2.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 22 Aug 2014 21:22:00 -0500</pubDate>
+            <enclosure url="http://amtrak.tlunter.com/app/Amtrak%20Status%201.2.zip" sparkle:version="1.2" length="3678004" type="application/octet-stream" sparkle:dsaSignature="MC0CFGQepKf15sH7UMeMv8RVwNOqGfEOAhUAigkHYs0TO9hm/2WhIW4b/Oqom1g=" />
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.1</title>
             <sparkle:releaseNotesLink>
                 http://amtrak.tlunter.com/version/1.1.html
